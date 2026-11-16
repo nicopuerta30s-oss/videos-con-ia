@@ -1,0 +1,9 @@
+node_modules/
+.env
+models/*.bin
+explicativos/audios/*
+!explicativos/audios/.gitkeep
+explicativos/*/build/
+explicativos/*/*.mp4
+.DS_Store
+assets/

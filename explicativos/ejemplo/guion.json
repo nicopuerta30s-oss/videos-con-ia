@@ -1,0 +1,105 @@
+{
+  "titulo": "¿Qué es un MCP y para qué sirve?",
+  "voz": "Paulina",
+  "velocidad": 185,
+  "marca": "Aprende Claude",
+  "frases": [
+    {
+      "texto": "Claude es muy inteligente, pero vive *encerrado* en una sala.",
+      "voz": "Claud es muy inteligente, pero vive encerrado en una sala."
+    },
+    {
+      "texto": "No puede ver tu calendario, tus archivos ni tus *herramientas*.",
+      "voz": "No puede ver tu calendario, tus archivos, ni tus herramientas."
+    },
+    {
+      "texto": "Conectarlo con cada aplicación exigía un *cable* distinto, hecho a la medida.",
+      "voz": "Conectarlo con cada aplicación exigía un cable distinto, hecho a la medida."
+    },
+    {
+      "texto": "Uno por uno, con mucho trabajo y muchos *enredos*.",
+      "voz": "Uno por uno, con mucho trabajo, y muchos enredos."
+    },
+    {
+      "texto": "Entonces llegó *MCP*.",
+      "voz": "Entonces llegó eme, ce, pe."
+    },
+    {
+      "texto": "Model Context Protocol: un *estándar* abierto, como el USB-C de la inteligencia artificial.",
+      "voz": "Model Context Protocol: un estándar abierto, como el USB-C de la inteligencia artificial."
+    },
+    {
+      "texto": "Un solo *enchufe*, y cualquier herramienta compatible se conecta.",
+      "voz": "Un solo enchufe, y cualquier herramienta compatible se conecta."
+    },
+    {
+      "texto": "Cada herramienta trae su *servidor* MCP, que le explica a Claude qué puede hacer.",
+      "voz": "Cada herramienta trae su servidor eme, ce, pe, que le explica a Claud qué puede hacer."
+    },
+    {
+      "texto": "Tú le pides: mueve mi reunión a las cuatro, y lo *hace*.",
+      "voz": "Tú le pides: mueve mi reunión a las cuatro, y lo hace."
+    },
+    {
+      "texto": "Tú *decides* a qué se conecta y qué puede tocar.",
+      "voz": "Tú decides a qué se conecta, y qué puede tocar."
+    },
+    {
+      "texto": "MCP son las *manos* de Claude.",
+      "voz": "eme, ce, pe, son las manos de Claud."
+    },
+    {
+      "texto": "Sígueme y *aprende* a usarlas.",
+      "voz": "Sígueme, y aprende a usarlas."
+    }
+  ],
+  "grupos": [
+    {
+      "ids": [
+        0,
+        1
+      ],
+      "escena": "sala"
+    },
+    {
+      "ids": [
+        2,
+        3
+      ],
+      "escena": "cables"
+    },
+    {
+      "ids": [
+        4,
+        5
+      ],
+      "escena": "mcp"
+    },
+    {
+      "ids": [
+        6,
+        7
+      ],
+      "escena": "hub"
+    },
+    {
+      "ids": [
+        8
+      ],
+      "escena": "chat"
+    },
+    {
+      "ids": [
+        9
+      ],
+      "escena": "permisos"
+    },
+    {
+      "ids": [
+        10,
+        11
+      ],
+      "escena": "cierre"
+    }
+  ]
+}
