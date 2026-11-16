@@ -264,7 +264,7 @@ const T7 = ({ t, W }) => {
       </Abs>
       <Abs x={90} y={1060 + (1 - resp) * 60} o={clamp(resp * 2)} s={0.9 + 0.1 * resp} style={{ width: 900, height: 200, borderRadius: 32, background: K.panel, border: `2px solid ${K.vd}`, display: 'flex', alignItems: 'center', padding: '0 30px', gap: 24 }}>
         <div style={{ width: 96, height: 96, borderRadius: 48, background: `linear-gradient(135deg, ${K.cy}, ${K.vd})`, flexShrink: 0 }} />
-        <div><Tx size={34} f={M} c={K.gr}>@nicopuerta_30s</Tx><Tx size={46} style={{ marginTop: 8 }}>Te lo comparto 🔗</Tx></div>
+        <div><Tx size={34} f={M} c={K.gr}>@nicopuerta_30</Tx><Tx size={46} style={{ marginTop: 8 }}>Te lo comparto 🔗</Tx></div>
       </Abs>
     </>
   )

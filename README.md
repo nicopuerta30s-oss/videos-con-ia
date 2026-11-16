@@ -12,7 +12,7 @@ Incluye **11 diseños distintos** (explicativo, cinético, producto, mercado, Ba
 
 ## ¿Quieres un video y no sabes por dónde empezar?
 
-**Súbeme tus referencias** (videos o capturas de Reels que te gusten) y yo te ayudo a convertirlas en tu propio video: escríbeme por Instagram a **[@nicopuerta_30s](https://instagram.com/nicopuerta_30s)** o abre un *Issue* en este repositorio con tu referencia y tu idea.
+**Súbeme tus referencias** (videos o capturas de Reels que te gusten) y yo te ayudo a convertirlas en tu propio video: escríbeme por Instagram a **[@nicopuerta_30](https://instagram.com/nicopuerta_30)** o abre un *Issue* en este repositorio con tu referencia y tu idea.
 
 La herramienta está pensada para trabajarse junto a un asistente de IA como [Claude Code](https://claude.com/claude-code): le pasas la referencia, le dices de qué trata tu video y él crea el guion, el diseño y el render. El archivo [`CLAUDE.md`](CLAUDE.md) le explica cómo funciona todo.
 
@@ -111,4 +111,4 @@ src/                # transcripción (Whisper) y efectos de sonido (FFmpeg)
 
 ## Licencia
 
-MIT. Úsala, modifícala y compártela. Si te sirve, cuéntame en [@nicopuerta_30s](https://instagram.com/nicopuerta_30s).
+MIT. Úsala, modifícala y compártela. Si te sirve, cuéntame en [@nicopuerta_30](https://instagram.com/nicopuerta_30).
